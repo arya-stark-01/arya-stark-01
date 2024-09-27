@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - :computer: I'm a software engineer currently based in Singapore.
-- 🔭 I’m currently working on... C# and Java projects
+- 🔭 I’m currently working on... C# and Java projects.
 - 🌱 I’m currently learning... AWS Cloud, AI and mobile development.
 - 👯 I’m looking to collaborate on... projects related to what I'm currently learning.
 - 🤔 I’m looking for help with... how to get into a master's degree program because I feel I learn better in a more structured environment.
 - 📫 How to reach me: begqsalem@gmail.com
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: she/her
 
 [![@arya-stark-01's Holopin board](https://holopin.io/api/user/board?user=bsalem)](https://www.holopin.io/@bsalem)
